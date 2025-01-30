@@ -15,4 +15,4 @@ Visit: http://127.0.0.1:7860
 
 #### Screenshot
 
-![alt text](image.png)
+![alt text](image-1.png)
